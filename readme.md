@@ -8,7 +8,9 @@ LINE 群組簽到機器人 (Sign BOT)
 
 功能 Features
 ------
-*一進一出，防止重複進入
-*自動統計訓練時間
-*隨時查看球室使用狀況
-*使用Google App Script及Google Sheet，無須架設任何伺服器
+* 一進一出，防止重複進入
+* 自動統計訓練時間
+* 隨時查看球室使用狀況
+* 使用Google App Script及Google Sheet，無須架設任何伺服器
+
+
