@@ -33,9 +33,9 @@
 5. 配置環境變量:
 
    ```bash
-   CHANNEL_ACCESS_TOKEN = 'your_token';
-   sheet = SpreadsheetApp.openById('your_sheet_id');
-   sheetTemp = SpreadsheetApp.openById('your_temp_sheet_id');
+   CHANNEL_ACCESS_TOKEN = 'your_token'
+   sheet = SpreadsheetApp.openById('your_sheet_id')
+   sheetTemp = SpreadsheetApp.openById('your_temp_sheet_id')
 
 7. 將相對應Webhook填入Line BOT
 
