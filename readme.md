@@ -22,17 +22,17 @@
 
 ### 安裝
 
-1.創立Line Developers帳號，並取得Token
+1. 創立Line Developers帳號，並取得Token
 
-2.建立Google App Script
+2. 建立Google App Script
 
-3.建立Google Sheet 一張作為暫存資料表，另一張則為記錄資料表
+3. 建立Google Sheet 一張作為暫存資料表，另一張則為記錄資料表
 
-4.在Google App Script 建立專案並且複製main.gs至GAS
+4. 在Google App Script 建立專案並且複製main.gs至GAS
 
-5.依照順序填入Token、SheetID、TempSheetID並部屬網路應用程式
+5. 依照順序填入Token、SheetID、TempSheetID並部屬網路應用程式
 
-6.將相對應Webhook填入Line BOT
+6. 將相對應Webhook填入Line BOT
 
 ## 貢獻
 
