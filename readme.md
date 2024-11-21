@@ -30,9 +30,14 @@
 
 4. 在Google App Script 建立專案並且複製main.gs至GAS
 
-5. 依照順序填入Token、SheetID、TempSheetID並部屬網路應用程式
+5. 配置環境變量:
 
-6. 將相對應Webhook填入Line BOT
+   ```bash
+   CHANNEL_ACCESS_TOKEN = 'your_token';
+   sheet = SpreadsheetApp.openById('your_sheet_id');
+   sheetTemp = SpreadsheetApp.openById('your_temp_sheet_id');
+
+7. 將相對應Webhook填入Line BOT
 
 ## 貢獻
 
