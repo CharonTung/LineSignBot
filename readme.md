@@ -7,11 +7,13 @@
 - 自動統計訓練時間
 - 隨時查看球室使用狀況
 - 紀錄訓練內容
+- 視覺化統整網頁，可篩選用戶、時間
 
 ## Demo
 
 <img src="https://github.com/CharonTung/LineSignBot/blob/main/demo1.jpg" width="300px">
 <img src="https://github.com/CharonTung/LineSignBot/blob/main/demo2.jpg" width="300px">
+<img src="https://github.com/CharonTung/LineSignBot/blob/main/demo3.jpg" width="300px">
 
 ## 快速開始
 
