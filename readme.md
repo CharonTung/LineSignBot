@@ -28,7 +28,7 @@
 
 3. 建立Google Sheet 一張作為暫存資料表，另一張則為記錄資料表
 
-4. 在Google App Script 建立專案並且複製main.gs至GAS
+4. 在Google App Script 建立專案並且複製main.gs、api.gs至GAS
 
 5. 配置環境變量:
 
@@ -38,6 +38,8 @@
    sheetTemp = SpreadsheetApp.openById('your_temp_sheet_id')
 
 7. 將相對應Webhook填入Line BOT
+
+8. 配置view.html的webAPI網址
 
 ## 貢獻
 
