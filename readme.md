@@ -13,7 +13,7 @@
 
 <img src="https://github.com/CharonTung/LineSignBot/blob/main/demo1.jpg" width="300px">
 <img src="https://github.com/CharonTung/LineSignBot/blob/main/demo2.jpg" width="300px">
-<img src="https://github.com/CharonTung/LineSignBot/blob/main/demo3.jpg" width="300px">
+<img src="https://github.com/CharonTung/LineSignBot/blob/main/demo3.png" width="300px">
 
 ## 快速開始
 
